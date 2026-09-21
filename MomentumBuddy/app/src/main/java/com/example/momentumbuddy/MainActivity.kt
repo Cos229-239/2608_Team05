@@ -136,7 +136,7 @@ fun LoginScreen(){
         Spacer(modifier = Modifier.height(12.dp))
 
         Text(
-            text = "Login form coming next",
+            text = "'Positivity boosts momentum'",
             color = Navy,
             fontSize = 14.sp)
         }
